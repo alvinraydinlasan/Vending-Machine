@@ -2,12 +2,12 @@ For this coding challenge Netbeans IDE was used for coding and design.
 For the Java project, Java with ANT.
 
 Coding Challenge Main
-====================================================================
+=====================================================================
 Please start by running LoadScrn Form to feel the app like experience.
 To enter Machine Service Options please key-in A1B1C1D10 using the provided keypad.
 
 Machine Service Options
-====================================================================
+=====================================================================
 This form was provided with text field boxes to input the desired item.
 Four buttons to Add, Delete, Update, and Clear.
 Use "Add" button to add new items on the list.
@@ -19,7 +19,7 @@ A "Close" label box on the upper left part is provided to exit the Machine Servi
 All transactions are logged on the Output Window.
 
 Vending Macine
-===================================================================
+====================================================================
 This form is where the user can choose the product/item they want to purchase.
 Item list are shown with icons and provided with labels on top and left side of the form.
 The form is provided with keypad made up of buttons to enter their desired selection.
